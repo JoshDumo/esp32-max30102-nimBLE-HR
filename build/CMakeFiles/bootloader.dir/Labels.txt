@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/CMakeFiles/bootloader
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/CMakeFiles/bootloader.rule
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/CMakeFiles/bootloader-complete.rule
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/dumo/esp/esp-idf/Projects/latest_examples/nimBLEHR-PLX-Services/blehr/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
